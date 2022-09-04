@@ -1,0 +1,16 @@
+App.js-This is the file for App Component.This is the first component that is used in any react application
+App Component is the main component in React which acts as a container for all other components.
+
+
+Index.js - This contains the whole JS for your website. 
+This also contains the initialization code for React.
+
+
+App.css : This is the CSS file corresponding to App Component
+This contains the whole CSS for your website. If we write any CSS code here,
+ it will be avialble throughout the whole website.
+
+Index.html: When the application starts this is the first page that is loaded. 
+This will be the only html file in the entire application
+
+
